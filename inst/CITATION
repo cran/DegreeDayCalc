@@ -1,0 +1,35 @@
+bibentry(
+  bibtype = "Manual",
+  title = "Degree-Day Phenology Calculator: Modeling Thermal Requirements of Insect Life Stages",
+  author = c(
+    person(
+      given  = c("Victor", "Manuel"),
+      family = "Almaraz Valle",
+      role   = c("aut", "cre"),
+      email  = "almarazkrae@gmail.com"
+    ),
+    person(
+      given  = c("Juan", "Concepción"),
+      family = "Rodríguez Maciel",
+      role   = "aut"
+    ),
+    person(
+      given  = "Gustavo",
+      family = "Ramírez Valverde",
+      role   = "aut"
+    ),
+    person(
+      given  = c("Jaime", "Alfredo"),
+      family = "Urzúa Gutiérrez",
+      role   = "aut"
+    ),
+    person(
+      given  = c("Manuel", "Alejandro"),
+      family = "Tejeda Reyes",
+      role   = "aut"
+    )
+  ),
+  year = "2026",
+  note = "R package (Shiny application)",
+  url  = "https://github.com/almarazkrae-4081/DegreeDayCalc"
+)

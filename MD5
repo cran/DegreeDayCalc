@@ -1,0 +1,16 @@
+b7a8fc3d9d372bf2951f78ef5255b0a3 *DESCRIPTION
+2b0ab8bd3c6acdb9c34f3a62ca904f06 *LICENSE
+5c732b23c0a39733d015bfac146ccef4 *NAMESPACE
+e297287f234335565a687eeccd63bf2e *R/degree_days.R
+faebc0b445629783ac7431603e5e4801 *R/run_app.R
+76fbc9b93fc7528f71419d071ca05a40 *R/zzz.R
+df804b296d82df4cc2a4c3e94bcae820 *README.md
+531f46d20862499cba2e20e555582496 *inst/CITATION
+52520a0316c3eff5866e6732858c8407 *inst/LICENSE.md
+f39ac63089755d8e97647c133b79248f *inst/app/app.R
+ad1bc65805c7a1a66662084bd781c780 *man/DegreeDayCalc.Rd
+aa2b2361cfea252d75b918fc4f364a47 *man/degree_days.Rd
+729841084c4874821e9e991f0eb05e17 *man/run_app.Rd
+c401ed2bfa9ffacf62a57ff9079448c1 *tests/testthat.R
+225e3812b897786befc574f805c96dc2 *tests/testthat/test-degree-days-core.R
+8f8d29d14b3eefe70330ef154c080034 *tests/testthat/test-run-app.R
