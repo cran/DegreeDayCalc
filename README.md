@@ -19,11 +19,11 @@ The package is designed for **entomologists, ecologists, agronomists, and pest m
   - Sine with upper threshold
 - Flexible life-stage definitions:
   - Egg
-  - Larva 1–6 *or* Nymph 1–6 (user selectable)
+  - Larva 1-6 *or* Nymph 1-6 (user selectable)
   - Pupa
   - Adult
   - Preoviposition
-- Upload daily temperature data (CSV)
+- Upload daily temperature data (CSV or Excel)
 - Automatic assignment of developmental stages
 - Visualization of cumulative degree-days and stage transitions
 - Downloadable results table (CSV) and figure (PNG)
@@ -32,8 +32,6 @@ The package is designed for **entomologists, ecologists, agronomists, and pest m
 
 ## Installation
 
-### From GitHub (development version)
-
 ```r
-# install.packages("devtools")
-devtools::install_github("almarazkrae-4081/DegreeDayCalc")
+install.packages("DegreeDayCalc")
+```

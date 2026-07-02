@@ -3,33 +3,32 @@ bibentry(
   title = "Degree-Day Phenology Calculator: Modeling Thermal Requirements of Insect Life Stages",
   author = c(
     person(
-      given  = c("Victor", "Manuel"),
+      given = c("Victor", "Manuel"),
       family = "Almaraz Valle",
-      role   = c("aut", "cre"),
-      email  = "almarazkrae@gmail.com"
+      role = c("aut", "cre"),
+      email = "almarazkrae@gmail.com"
     ),
     person(
-      given  = c("Juan", "Concepción"),
-      family = "Rodríguez Maciel",
-      role   = "aut"
+      given = c("J.", "Concepci\u00f3n"),
+      family = "Rodr\u00edguez Maciel",
+      role = "aut"
     ),
     person(
-      given  = "Gustavo",
-      family = "Ramírez Valverde",
-      role   = "aut"
+      given = "Gustavo",
+      family = "Ram\u00edrez Valverde",
+      role = "aut"
     ),
     person(
-      given  = c("Jaime", "Alfredo"),
-      family = "Urzúa Gutiérrez",
-      role   = "aut"
+      given = c("Jaime", "Alfredo"),
+      family = "Urz\u00faa Guti\u00e9rrez",
+      role = "aut"
     ),
     person(
-      given  = c("Manuel", "Alejandro"),
+      given = c("Manuel", "Alejandro"),
       family = "Tejeda Reyes",
-      role   = "aut"
+      role = "aut"
     )
   ),
   year = "2026",
-  note = "R package (Shiny application)",
-  url  = "https://github.com/almarazkrae-4081/DegreeDayCalc"
+  note = "R package (Shiny application)"
 )
